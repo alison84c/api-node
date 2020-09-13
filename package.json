@@ -1,0 +1,11 @@
+{
+  "name": "api-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alison84c/api-node.git",
+  "author": "Alison Costa <alisoncosta@globo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
